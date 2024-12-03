@@ -1,5 +1,5 @@
 # Angelina T
-# To be in.. the future.. more items and learning
+# to be in.. the future.. more items and learning
 
 ## Skills 
 - Creating digital artworks
@@ -11,7 +11,10 @@
 
 <span style="background-color: purple">purple text.. ?!</span>
 
-![Little bunny](https://i.pinimg.com/originals/72/ca/70/72ca70bc01fd0c0e34f2d815495f4a3b.jpg)
+<!-- ![Little bunny](https://i.pinimg.com/originals/72/ca/70/72ca70bc01fd0c0e34f2d815495f4a3b.jpg) -->
+
+### Java, C, some Python, C++, HTML, CSS, JS
+
 
 
 
