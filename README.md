@@ -1,5 +1,6 @@
 # Angelina T
 # to be in.. the future.. more items and learning
+ CS, with interest in Design.
 
 ## Skills 
 - Creating digital artworks
@@ -8,12 +9,14 @@
 - Video Editing
 
 > I like to listen to music 🎶
-
-<span style="background-color: purple">purple text.. ?!</span>
+<!-- <span style="background-color: purple">purple text.. ?!</span> -->
 
 <!-- ![Little bunny](https://i.pinimg.com/originals/72/ca/70/72ca70bc01fd0c0e34f2d815495f4a3b.jpg) -->
 
 ### Java, C, some Python, C++, HTML, CSS, JS
+### Starting to make some 3D graphic, models soon!
+
+✨💖😊 <--- some cute emojis! ☆*: .｡. o(≧▽≦)o .｡.:*☆
 
 
 
