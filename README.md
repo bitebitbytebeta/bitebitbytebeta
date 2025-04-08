@@ -9,6 +9,7 @@
 - Video Editing
 
 > I like to listen to music 🎶
+> currently working on decluttering space, instructing and teaching puppies, working on learning new things and skills. Interested in learning about front end web development, graphic design, video/photo editing, just something creative.
 <!-- <span style="background-color: purple">purple text.. ?!</span> -->
 
 <!-- ![Little bunny](https://i.pinimg.com/originals/72/ca/70/72ca70bc01fd0c0e34f2d815495f4a3b.jpg) -->
